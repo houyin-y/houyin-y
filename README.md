@@ -1,5 +1,7 @@
 # Halooo 👋
 
+![spinning gif](https://github.com/houyin-y/houyin-y/assets/76818628/caec5fd4-439c-4163-8ecc-913581c01a6c)
+
 ## I am currently a year 3 computer science student 👨‍🎓
 - Graduating in April 2024 
 - At Sunway University 
@@ -11,8 +13,8 @@
 ## I am currently working on 🛠️
 - my final year project (which you can see [here!](https://github.com/houyin-y/FYP-ProgramCodePlagiarismDetection))
 
-## Feel free to connect with me! 🗺🌐
-![My LinkedIn Profile!](https://www.linkedin.com/in/houyin/)
+## Feel free to connect with me! 🌐
+[My LinkedIn Profile!](https://www.linkedin.com/in/houyin/)
 
 
 <!--
