@@ -9,7 +9,7 @@
 - Backend development
 
 ## I am currently working on:
-- my final year project (which you can see [here!](././FYP-ProgramCodePlagiarismDetection))
+- my final year project (which you can see [here!](https://github.com/houyin-y/FYP-ProgramCodePlagiarismDetection))
 
 <!--
 **houyin-y/houyin-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
