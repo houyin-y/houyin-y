@@ -11,9 +11,8 @@
 ## I am currently working on 🛠️
 - my final year project (which you can see [here!](https://github.com/houyin-y/FYP-ProgramCodePlagiarismDetection))
 
-
-## Feel free to connect with me! 🗺️
-![LI-In-Bug](https://github.com/houyin-y/houyin-y/assets/76818628/ecc28897-ae9f-4e25-9e81-8d460b2d6241)(https://www.linkedin.com/in/houyin/)
+## Feel free to connect with me! 🗺🌐
+![My LinkedIn Profile!](https://www.linkedin.com/in/houyin/)
 
 
 <!--
