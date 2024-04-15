@@ -2,15 +2,14 @@
 
 ![spinning gif](https://github.com/houyin-y/houyin-y/assets/76818628/caec5fd4-439c-4163-8ecc-913581c01a6c)
 
-## I am currently a year 3 computer science student 👨‍🎓
-- Graduating in April 2024 
+## I am currently Computer Science Graduate that just graduated in April 👨‍🎓
 - At Sunway University 
 
 ## I am interested in 👨‍💻
 - Software engineering
 - Backend development
 
-## I am currently working on 🛠️
+## Previous Projects 🛠️
 - my final year project (which you can see [here!](https://github.com/houyin-y/FYP-ProgramCodePlagiarismDetection))
 
 ## Feel free to connect with me! 🌐
