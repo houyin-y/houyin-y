@@ -56,7 +56,7 @@ Welcome to my GitHub profile! Have a cookie while you browse through~ 🍪
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
-## Previous Projects 🛠️
+## 🛠️ Previous Projects 
 - My Final Year Project - [Program Code Plagiarism Detection System](https://github.com/houyin-y/FYP-ProgramCodePlagiarismDetection) 
 
 ## 📫 Let's Connect
