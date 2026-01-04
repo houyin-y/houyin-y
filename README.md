@@ -29,7 +29,7 @@ Welcome to my GitHub profile! Have a cookie while you browse through~ 🍪
 <h3 align="center">Hou Yin's GitHub Profile</h3>
 
 ## 💫 About Me
-- 🔨 I'm currently developing my own [personal finance tracker](https://github.com/houyin-y/personal-finance-tracker), do drop by to check on my progress! 🌈
+- 🔨 I'm currently doing full stack development, with some experience in AWS
 - 🔭 First time using Linux; dual booting my laptop with Linux Mint and Windows  
 - ⚡ Hobbies: Games, workout and reading everything tech-related
 - 🎈 Fun fact: Experimenting with ESP8266 and diving deeper into the Linux ecosystem
